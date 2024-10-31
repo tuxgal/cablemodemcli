@@ -9,7 +9,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/tuxdude/cablemodemutil"
+	"github.com/tuxgal/cablemodemutil"
 )
 
 const (

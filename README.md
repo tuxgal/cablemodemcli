@@ -1,11 +1,11 @@
 # cablemodemcli
 
-[![Build](https://github.com/Tuxdude/cablemodemcli/actions/workflows/build.yml/badge.svg)](https://github.com/Tuxdude/cablemodemcli/actions/workflows/build.yml) [![Tests](https://github.com/Tuxdude/cablemodemcli/actions/workflows/tests.yml/badge.svg)](https://github.com/Tuxdude/cablemodemcli/actions/workflows/tests.yml) [![Lint](https://github.com/Tuxdude/cablemodemcli/actions/workflows/lint.yml/badge.svg)](https://github.com/Tuxdude/cablemodemcli/actions/workflows/lint.yml) [![CodeQL](https://github.com/Tuxdude/cablemodemcli/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/Tuxdude/cablemodemcli/actions/workflows/codeql-analysis.yml) [![Go Report Card](https://goreportcard.com/badge/github.com/tuxdude/cablemodemcli)](https://goreportcard.com/report/github.com/tuxdude/cablemodemcli)
+[![Build](https://github.com/tuxgal/cablemodemcli/actions/workflows/build.yml/badge.svg)](https://github.com/tuxgal/cablemodemcli/actions/workflows/build.yml) [![Tests](https://github.com/tuxgal/cablemodemcli/actions/workflows/tests.yml/badge.svg)](https://github.com/tuxgal/cablemodemcli/actions/workflows/tests.yml) [![Lint](https://github.com/tuxgal/cablemodemcli/actions/workflows/lint.yml/badge.svg)](https://github.com/tuxgal/cablemodemcli/actions/workflows/lint.yml) [![CodeQL](https://github.com/tuxgal/cablemodemcli/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/tuxgal/cablemodemcli/actions/workflows/codeql-analysis.yml) [![Go Report Card](https://goreportcard.com/badge/github.com/tuxgal/cablemodemcli)](https://goreportcard.com/report/github.com/tuxgal/cablemodemcli)
 
 A CLI (written in go) for querying the status of Cable Modems.
 
 This currently only works (and has been tested with) an Arris S33 Cable
-Modem. The CLI uses the [`cablemodemutil` go library](https://github.com/Tuxdude/cablemodemutil)
+Modem. The CLI uses the [`cablemodemutil` go library](https://github.com/tuxgal/cablemodemutil)
 for interacting with the cable modem.
 
 If you would like to add support for other cable modems, please
